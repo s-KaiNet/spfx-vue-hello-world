@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "vue-sample-client-side-solution",
+    "id": "4b0e7b05-9076-4a23-9226-48df9fb63a83",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/vue-sample.sppkg"
+  }
+}
