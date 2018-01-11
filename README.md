@@ -1,26 +1,10 @@
-## spfx-vue-hello-world
+# spfx-vue-hello-world
+Hello World SharePoint Framework client web part with Vue.js
 
-This is where you include your WebPart documentation.
+### Companioun post - [SharePoint Framework–building hello world client web part with Vue.js](http://spblog.net/post/2017/01/31/SharePoint-Framework-building-hello-world-web-part-with-Vuejs)
 
-### Building the code
-
+Minimal path to AWESOME:
 ```bash
-git clone the repo
 npm i
-npm i -g gulp
-gulp
+gulp serve
 ```
-
-This package produces the following:
-
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
-
-### Build options
-
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
