@@ -15,10 +15,7 @@ build.configureWebpack.setConfig({
             }
         };
 
-        //let merged = merge(config, vueConfig);
-        //console.log(JSON.stringify(merged));
-
-        return config;
+        return merge(config, vueConfig);
     }
 });
 
